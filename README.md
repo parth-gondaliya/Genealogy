@@ -28,37 +28,37 @@ and chronological order.
 
 Data structure used in program:
 -----------------------------------------------------------------------------------------------------
--Arraylist
--Hashset
--Array
--Tree based structure
--Basic OOPs concepts
+- Arraylist
+- Hashset
+- Array
+- Tree based structure
+- Basic OOPs concepts
 
 
 Total functionality of program:
 -----------------------------------------------------------------------------------------------------
--Find ancestor of node(person)
--Find descendants of node(person)
--Find the relationship between 2 nodes
--Add the (node)person in database
--Add details of person in database
--Add relationship as parent-child, partner1-partner2 and dissolution between persons
--Add file detail in database
--Add file attributes (date/location/quality etc.) in database
--Add people in image/video file
--Add tag in image/video file
--And many more.
+- Find ancestor of node(person)
+- Find descendants of node(person)
+- Find the relationship between 2 nodes
+- Add the (node)person in database
+- Add details of person in database
+- Add relationship as parent-child, partner1-partner2 and dissolution between persons
+- Add file detail in database
+- Add file attributes (date/location/quality etc.) in database
+- Add people in image/video file
+- Add tag in image/video file
+- And many more.
 
 
 Limitation:
 -----------------------------------------------------------------------------------------------------
--Date should be in YYYY-MM-DD, YYYY-MM, YYYY format only.
--Can not remove parent child relationship once it will be established
--Cannot store the blob content of image/video in database
--Only store the file name of images/videos
--Cannot store some portion of images and video
--Cannot throw an option for selecting the from multiple options (persons and files are
- which has same name)
--With GUI, we can provide the more efficient way to operate the functionalities
--Prefix attributes are not available for person and file so that no extra and accurate
- manipulation can be done
+- Date should be in YYYY-MM-DD, YYYY-MM, YYYY format only.
+- Can not remove parent child relationship once it will be established
+- Cannot store the blob content of image/video in database
+- Only store the file name of images/videos
+- Cannot store some portion of images and video
+- Cannot throw an option for selecting the from multiple options (persons and files are
+  which has same name)
+- With GUI, we can provide the more efficient way to operate the functionalities
+- Prefix attributes are not available for person and file so that no extra and accurate
+  manipulation can be done
